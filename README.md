@@ -8,6 +8,4 @@ This library includes:
 * Custom Tweening library (Thanks to @Quackerona)
 * ...And more!
 
-This library is already in [Geode Engine](https://github.com/Equinoxtic/Geode)
-
-
+This library is already included in [Geode Engine](https://github.com/Equinoxtic/Geode)
